@@ -29,6 +29,7 @@ A data analytics project exploring the Amazon India headphones market using SQL,
 ```
 /
 ├── Amazon Headphones Market.pbix     # Power BI dashboard (.pbix)
+├── Amazon Headphones Market.pdf      # Power BI dashboard (pdf version)
 ├── Amazon_Headphones_Market_Data_Analysis_Executive_Report.pdf
 ├── advanced_analysis.ipynb           # Python notebook for EDA, modeling, plots
 ├── sql_data_analysis.ipynb           # SQL scripts for data cleaning and basic analysis
